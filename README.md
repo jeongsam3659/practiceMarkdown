@@ -42,8 +42,8 @@
 ###### This is a H6
 ####### H7부턴 지원하지 않음.
 
-* 2-2. BlockQuote
-이메일에서 사용하는 '''>''' 블럭인용문자를 사용한다.
+## 2-2. BlockQuote
+이메일에서 사용하는 ```>``` 블럭인용문자를 사용한다.
 ```
 > This is a first blockqute.
 >	> This is a second blockqute.
