@@ -253,7 +253,6 @@ public class Application1 {
 ## 2-6. 링크
 * 참조링크
 ```
-// 1
 [link keyword][id]
 
 [id]: URL "Optional Title here"
@@ -262,12 +261,13 @@ public class Application1 {
 Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
-[네이버link]: https://naver.com "Go naver"
 ```
 
 Link: [Google][googlelink]
+Link: [Naver][Naverlink]
 
 [googlelink]: https://google.com "Go google"
+[Naverlink]: https://www.naver.com "Go naver"
 
-[네이버link]: https://www.naver.com "Go naver"
+
 
