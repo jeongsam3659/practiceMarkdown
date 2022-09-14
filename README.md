@@ -129,9 +129,10 @@ end code block.
 적용예:
 
 *****
-일반적으로 작성하는 부분
+This is a normal paragraph:
 
-   Tab을 사용하여 들여쓴 부분
+    This is a code block.
 
-끝부분을 
+end code block.
 *****
+
