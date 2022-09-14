@@ -269,5 +269,5 @@ Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
-[네이버link]: https://naver.com "Go naver
+[네이버link]: https://naver.com "Go naver"
 
