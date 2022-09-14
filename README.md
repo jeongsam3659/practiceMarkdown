@@ -4,7 +4,19 @@
 
 > markdown 사용해보자  
 > [**출처**](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+> 출저 작성자의 출처
+> ## ○ 참고문서
+* [78 Tools for writing and previewing Markdown](http://mashable.com/2013/06/24/markdown-tools/)
+* [John gruber 마크다운 번역](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)
+* [깃허브 취향의 마크다운 번역](http://nolboo.github.io/blog/2014/03/25/github-flavored-markdown/)
+* [허니몬의 마크다운 작성법](http://www.slideshare.net/ihoneymon/ss-40575068)
+* Notion.so(<https://www.notion.so/product>)
+* Atom(<https://atom.io/>)
+* Visual Studio Code(<https://code.visualstudio.com/>)
+* Notepad++(<https://notepad-plus-plus.org/>)
 
+****
+****
 ****
 
 # 2. 마크다운 사용법 (문법)
@@ -237,3 +249,25 @@ public class Application1 {
 - - -
 
 ---------------------------------------
+
+## 2-6. 링크
+* 참조링크
+```
+// 1
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
+// 2 code
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+[네이버link]: https://naver.com "Go naver"
+```
+
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+
+[네이버link]: https://naver.com "Go naver
+
