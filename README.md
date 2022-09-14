@@ -129,10 +129,43 @@ end code block.
 적용예:
 
 *****
-This is a normal paragraph:
+일반적으로 작성한 구간
 
-    This is a code block.
+    한줄을 띄운 뒤 TAB을 두번 작성하기
 
-end code block.
+끝부분 표시
 *****
 
+> 한줄 띄어쓰지 않으면 인식이 제대로 안되는 문제가 발생합니다.
+적용예:
+```
+This is a normal paragraph:
+    This is a code block.
+end code block.
+```
+
+### 2-4-2. 코드블럭
+코드블럭은 다음과 같이 2가지 방식을 사용할 수 있습니다:
+
+* `<pre><code>{code}</code></pre>` 이용방식.
+
+```
+<pre>
+<code>
+public class Application1 {
+  public static void main(String []args){
+     System.out.println("Hi Java!");
+  }
+}
+</code>
+</pre>
+```
+<pre>
+<code>
+public class Application1 {
+  public static void main(String []args){
+     System.out.println("Hi Java!");
+  }
+}
+</code>
+</pre>
