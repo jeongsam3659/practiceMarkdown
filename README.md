@@ -127,8 +127,11 @@ This is a normal paragraph:
 end code block.
 ```
 적용예:
+
 *****
 일반적으로 작성하는 부분
-  Tab을 사용하여 들여쓴 부분
+
+   Tab을 사용하여 들여쓴 부분
+
 끝부분을 
 *****
