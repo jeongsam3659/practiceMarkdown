@@ -40,5 +40,17 @@
 #### This is a H4
 ##### This is a H5
 ###### This is a H6
+####### H7부턴 지원하지 않음.
 
-** H7부턴 지원하지 않음.
+* 2-2. BlockQuote
+이메일에서 사용하는 '''>''' 블럭인용문자를 사용한다.
+```
+> This is a first blockqute.
+>	> This is a second blockqute.
+>	>	> This is a third blockqute.
+```
+> This is a 첫번째 블록.
+> > This is a 두번째 블록.
+> > > Thiis is a 세번째 블록.
+
+
