@@ -174,9 +174,9 @@ public class Application1 {
 <pre>
 <code>
 ```
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
+public class Application1 {
+  public static void main(String []args){
+     System.out.println("Hi Java!");
   }
 }
 ```
@@ -184,9 +184,9 @@ public class BootSpringBootApplication {
 </pre>
 
 ```
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
+public class Application1 {
+  public static void main(String []args){
+     System.out.println("Hi Java!");
   }
 }
 ```
@@ -196,9 +196,9 @@ public class BootSpringBootApplication {
 <pre>
 <code>
 ```java
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
+public class Application1 {
+  public static void main(String []args){
+     System.out.println("Hi Java!");
   }
 }
 ```
@@ -206,8 +206,8 @@ public class BootSpringBootApplication {
 </pre>
 
 ```java
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
+public class Application1 {
+  public static void main(String []args){
+     System.out.println("Hi Java!");
   }
 }
